@@ -6,7 +6,7 @@
 
 ### Description
 
-Baserow is an open-source online database tool. This plugin allows you to create and manage rows using Baserow's API.
+Baserow is an open-source online database tool. This plugin allows you to create and manage rows using Baserow's API. If you are self-hosting Baserow, version >= 1.33.3 is required.
 
 ### Tools
 
